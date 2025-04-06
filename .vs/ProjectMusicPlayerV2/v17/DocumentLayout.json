@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|d:\\codes\\c#\\projects\\projectmusicplayerv2\\projectmusicplayerv2\\screens\\components\\musicusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\musicusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\aboutususercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\aboutususercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\musicusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\musicusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\aboutususercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\aboutususercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\musiclistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\musiclistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\playlistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\playlistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\playlistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\playlistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\musicinplaylistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\musicinplaylistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\songinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\songinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\musicinplaylistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\musicinplaylistusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\utilities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\utilities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\addplaylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\addplaylistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\playlistfolderusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\playlistfolderusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\warningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\warningform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\settingsusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\projectmusicplayerv2\\screens\\components\\playlistfolderusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88D061F-3411-40A1-8C01-D207635100C7}|ProjectMusicPlayerV2\\ProjectMusicPlayerV2.csproj|solutionrelative:projectmusicplayerv2\\screens\\components\\playlistfolderusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 680,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:23:50.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicUserControl.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\MusicUserControl.cs",
+              "ViewState": "AgIAAPEBAAAAAAAAAAAqwAUCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:23:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutUsUserControl.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:33:00.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Program.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Program.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:51:39.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUsUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\AboutUsUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:23:03.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicListUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\MusicListUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\MusicListUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\MusicListUserControl.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\MusicListUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:22:43.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\app.manifest",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\app.manifest",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\app.manifest",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-06-27T23:10:58.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Form1.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:50:49.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlaylistUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:31:01.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlaylistUserControl.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistUserControl.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T11:45:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicInPlaylistUserControl.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:36:01.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusicInPlaylistUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\MusicInPlaylistUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:25:23.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SongInfo.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\SongInfo.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\SongInfo.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\SongInfo.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\SongInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:42:00.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Form1.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Form1.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T07:50:50.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Utilities\\Helper.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Utilities\\Helper.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Utilities\\Helper.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Utilities\\Helper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T09:40:22.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddPlaylistForm.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\AddPlaylistForm.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\AddPlaylistForm.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\AddPlaylistForm.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\AddPlaylistForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T02:51:30.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlaylistFolderUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:26:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingsUserControl.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:21:00.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SettingsUserControl.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\SettingsUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T23:57:53.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WarningForm.cs [Design]",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\WarningForm.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\WarningForm.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\WarningForm.cs [Design]",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\WarningForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T01:21:51.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PlaylistFolderUserControl.cs",
+              "DocumentMoniker": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs",
+              "RelativeDocumentMoniker": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs",
+              "ToolTip": "D:\\Codes\\C#\\Projects\\ProjectMusicPlayerV2\\ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs",
+              "RelativeToolTip": "ProjectMusicPlayerV2\\Screens\\Components\\PlaylistFolderUserControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T12:26:22.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
